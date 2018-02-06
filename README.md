@@ -11,7 +11,7 @@
     ```
     <form name="signinForm" ng-controller="formcontroller" novalidate>
     ```
-    
+
     <br>
 
     * this tells the form to have a name **signinForm** which will be used for validation
@@ -45,3 +45,5 @@
       firstName to it.  I could have just used ng-model="firstName", but with a longer form, I can just pass an object through later on that contains all the properties
       * **ng-required="true"** just says this has to be filled in before anything can be submitted, just leave this out if you dont want to require anything because
       it is set to false by default
+
+    
