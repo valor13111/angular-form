@@ -1,0 +1,14 @@
+[
+	{
+		"firstName": "Tyler",
+		"lastName": "Reed",
+		"email": "email@email.com",
+		"password": "password"
+	},
+	{
+		"firstName": "wtf",
+		"lastName": "is this",
+		"email": "crap@dumpster.com",
+		"password": "poop"
+	}
+]
