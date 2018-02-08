@@ -6,7 +6,7 @@
     * this creates the angular app module and controller.
     * use **ng-app="app"** in the html file to tell it to use that module
     * use **ng-controller="formcontroller"** in whatever div in the html file to tell it to use that controller and its function
-    * factory is used to bridge two controllers, asddsaf
+    * **app.factory** is used to bridge two controllers, **formcontroller and submittedForm**
 
 2. index.html <br>
     ```
