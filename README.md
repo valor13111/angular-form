@@ -6,6 +6,7 @@
     * this creates the angular app module and controller.
     * use **ng-app="app"** in the html file to tell it to use that module
     * use **ng-controller="formcontroller"** in whatever div in the html file to tell it to use that controller and its function
+    * factory is used to bridge two controllers, 
 
 2. index.html <br>
     ```
@@ -45,5 +46,3 @@
       firstName to it.  I could have just used ng-model="firstName", but with a longer form, I can just pass an object through later on that contains all the properties
       * **ng-required="true"** just says this has to be filled in before anything can be submitted, just leave this out if you dont want to require anything because
       it is set to false by default
-
-    
